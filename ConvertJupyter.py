@@ -1,5 +1,5 @@
 #Created by Shlomi Kiko
-#Goal: This program converts Jupyter notebooks format ipynb to .py format so that it can be run automatically via Jenkins.
+#Goal: This program converts Jupyter notebooks format ipynb to .py format so that it can be run via Jenkins and executes the files.
 #LinkedIn: https://www.linkedin.com/in/shlomikiko/
 
 import os
